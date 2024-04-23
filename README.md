@@ -1,5 +1,5 @@
 # Faculdade-Geral
-Repositório para salvar e demonstrar resolução de exercícios e projetos da faculdade.
+Repositório para salvar e demonstrar resolução de exercícios e projetos da faculdade, do qual estão organizados de acordo com algumas categorias, como tipo de arquivo, linguagem de programação utilizada, etc.
 
 <b>Por:</b> Kaynan Lima de Matos<br>
 <b>Cursando:</b> Análise e Desenvolvimento de Sistemas 2024-2026
