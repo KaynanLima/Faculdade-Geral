@@ -24,3 +24,12 @@ Para abrir e executar estes arquivos, é bem simples:
 "Elabore um programa na linguagem C para exibir a somatória e a média do intervalo de números inteiros fornecidos pelo usuário."
 <br><br>
 
+2. Calculo Entre Dois Números:
+
+"A partir da leitura de dois números inteiros quaisquer, elabore um programa que exiba o resultado das 5 operações aritméticas (soma, subtração, multiplicação, divisão, resto). Exibir de forma compreensivel ao usuário."
+<br><br>
+
+3. Consumo Médio
+
+"Desenvolva um programa que, de acordo com a distancia percorrida em quilômetros pelo total de combustível gasto em litros, calcule o consumo médio."
+<br><br>
