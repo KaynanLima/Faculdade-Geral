@@ -43,3 +43,10 @@ Para abrir e executar estes arquivos, é bem simples:
 
 "Faça uma aplicação que exiba os números pares a partir de um intervalo informado e que, além disso, exiba a quantidade de números ímpares que houveram durante este intervalo. Aproveite e também calcule a somatória de todos estes números pares e some-os com o valor da quantidade de números ímpares, afirmando se o resultado deste calculo é par ou ímpar."
 <br><br>
+
+6. Calculo de Tabuada
+
+"Faça um programa que calcule a tabuada de um número inserido, utilizando While."
+<br><br>
+
+
