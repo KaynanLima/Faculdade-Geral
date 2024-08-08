@@ -27,4 +27,24 @@ Por motivos claros, nem todas terão projetos desenvolvidos para elas. <br>
 
 # 2° Semestre - 2024
 
+<b>Foram cursadas as seguintes matérias:</b>
+
+- Cálculo
+- Contabilidade
+- Engenharia de Software I
+- Estatística Aplicada
+- Laboratório de Hardware
+- Ling. de Programção I
+- Ling. de Programação II
+- Sistemas Operacionais I
+<br>
+Por motivos claros, nem todas terão projetos desenvolvidos para elas. <br>
+<i>As siglas citadas estão aí para via de necessidade.</i>
+
+<br><br>
+
+# 3° Semestre - 2024
+
 <i>(Serão adicionadas informações durante o período do curso)</i>
+
+
