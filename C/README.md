@@ -49,4 +49,14 @@ Para abrir e executar estes arquivos, é bem simples:
 "Faça um programa que calcule a tabuada de um número inserido, utilizando While."
 <br><br>
 
+7. Calculo de Promoção
+
+"Em um supermercado esta ocorrendo uma promoção. O cliente que vier a gastar acima de R$300,00 terá um Desconto de 10% do Valor que exceder o Valor anunciado. Exiba o Valor da Compra, Valor do Desconto e o Valor a Pagar."
+<br><br>
+
+8. Calculo de Departamentos
+
+"Uma empresa possui três Departamentos. Cada Departamento possui N funcionários e a empresa quer saber: total de salário por depto; funcionário com mais tempo de casa e seu salário; o maior e o menor salário."
+<br><br>
+
 
