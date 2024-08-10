@@ -43,7 +43,7 @@ Por motivos claros, nem todas terão projetos desenvolvidos para elas. <br>
 
 <br><br>
 
-# 3° Semestre - 2024
+# 3° Semestre - 2025
 
 <i>(Serão adicionadas informações durante o período do curso)</i>
 
