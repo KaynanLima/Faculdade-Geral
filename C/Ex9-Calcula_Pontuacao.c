@@ -4,12 +4,12 @@ int main () {
 
     int salario, salarioTotal, fi, mi, pontuacao, geralPont, media, maiorPont;
 
-    printf("Uma empresa contratou 15 funcion·rios tempor·rios. De acordo com o valor das vendas mensais, os funcion·rios adquirem pontos que determinar„o seu sal·rio ao final do mÍs.\n");
+    printf("Uma empresa contratou 15 funcion√°rios tempor√°rios. De acordo com o valor das vendas mensais, os funcion√°rios adquirem pontos que determinar√£o seu sal√°rio ao final do m√™s.\n");
 
     fi = 1;
     maiorPont = 0;
 
-    while (fi <= 3) {
+    while (fi <= 15) {
 
         printf("\n\n\n---------------------------------------------------------------------------");
         printf("\n\n    Funcionario %i:", fi);
@@ -37,24 +37,24 @@ int main () {
             }
 
             salarioTotal = salarioTotal + salario;
-            printf("\nO sal·rio deste mes È de: %i\n\n", salario);
+            printf("\nO sal√°rio deste mes √© de: %i\n\n", salario);
             mi++;
 
             printf("-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -");
         }
         media = geralPont / 3;
 
-        printf("\n\nValores finais do Funcion·rio %i:", fi);
+        printf("\n\nValores finais do Funcion√°rio %i:", fi);
 
-        printf("\n\n A pontuaÁ„o geral È de: %i", geralPont);
-        printf("\n A pontuaÁ„o media foi de: %i", media);
-        printf("\n O Salario Total È de: %i", salarioTotal);
+        printf("\n\n A pontua√ß√£o geral √© de: %i", geralPont);
+        printf("\n A pontua√ß√£o media foi de: %i", media);
+        printf("\n O Salario Total √© de: %i", salarioTotal);
 
         fi++;
     }
 
     printf("\n\n\n---------------------------------------------------------------------------");
-    printf("\n\nDurante todo este perÌodo, a maior pontuacao obtida foi de %i\n\n\n", maiorPont);
+    printf("\n\nDurante todo este per√≠odo, a maior pontuacao obtida foi de %i\n\n\n", maiorPont);
 
 return 0;
 }
