@@ -5,10 +5,10 @@ int main () {
     int times, jogadores, ti, ji, idade, peso, altura, qtdMaior, mediaIdade, mediaAltura;
     float porcPeso;
 
-    printf("\nEm um compeonato de Futebol existe 5 times e cada time possui 5 jogadores. Faça um programa que receba idade, peso e altura de cada jogador.\n");
+    printf("\nEm um compeonato de Futebol existe 5 times e cada time possui 5 jogadores. FaÃ§a um programa que receba idade, peso e altura de cada jogador.\n");
 
-    times = 2;
-    jogadores = 2;
+    times = 5;
+    jogadores = 5;
 
     qtdMaior = 0;
     porcPeso = 0;
@@ -49,16 +49,16 @@ int main () {
         }
         mediaIdade = mediaIdade / jogadores;
 
-        printf("\n\n\nA media das idades deste time é de: %i", mediaIdade);
+        printf("\n\n\nA media das idades deste time Ã© de: %i", mediaIdade);
         ti++;
     }
 
     mediaAltura = mediaAltura / (jogadores * times);
     porcPeso = porcPeso * 100 / (jogadores * times);
 
-    printf("\n\n\nA quantidade de jogadores com idade inferior a 18 anos é de %i", qtdMaior);
-    printf("\nA média das alturas de todos os jogadores do campeonato é de %i", mediaAltura);
-    printf("\nA porcentagem de Jogadores com mais de 60kg é de %.2f porcento", porcPeso);
+    printf("\n\n\nA quantidade de jogadores com idade inferior a 18 anos Ã© de %i", qtdMaior);
+    printf("\nA mÃ©dia das alturas de todos os jogadores do campeonato Ã© de %i", mediaAltura);
+    printf("\nA porcentagem de Jogadores com mais de 60kg Ã© de %.2f porcento", porcPeso);
 
 return 0;
 }
