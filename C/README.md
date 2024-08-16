@@ -59,4 +59,21 @@ Para abrir e executar estes arquivos, é bem simples:
 "Uma empresa possui três Departamentos. Cada Departamento possui N funcionários e a empresa quer saber: total de salário por depto; funcionário com mais tempo de casa e seu salário; o maior e o menor salário."
 <br><br>
 
+9. Calculo de Pontuação
+
+"Uma empresa contratou 3 funcionários temporários durante um período de 3 meses. De acordo com o valor das vendas mensais, os funcionários adquirem pontos que determinarão seu salário ao final do mês. Insira a pontuação de cada mês e exiba o salário do Funcionário. O valor de salário padrão é de 2600, aumentando em 5% para uma pontuação menor ou igual a 3, em 10% para uma pontuação igual ou menor a 6 e em 15% para uma pontuação superior a 6. Além do mais, exiba:"
+- A Pontuação Geral (total) de cada funcionário;
+- A Pontuação Média de cada funcionário;
+- O Salário Total recebido de cada funcionário;
+- A maior pontuação recebida entre todos os funcionários.
+<br><br>
+
+10. Calculo para Campeonato
+
+"Em um compeonato de Futebol existe 5 times e cada time possui 5 jogadores. Faça um programa que receba idade, peso e altura de cada jogador. Faça que este exiba:"
+- A Média de Idade de cada time;
+- A quantidade de Jogadores do campeonato com idade inferior a 18;
+- A média da altura de todos os jogadores do campeonato;
+- A porcentagem de Jogadores do campeonato com mais de 60kg.
+<br><br>
 
